@@ -38,3 +38,43 @@ C:\Users\Ashok S\Desktop\Covi Testing Panel\obj\Debug\net5.0\ref\Covi Testing Pa
 C:\Users\Ashok S\Desktop\Covi Testing Panel\obj\Debug\net5.0\Covi Testing Panel.pdb
 C:\Users\Ashok S\Desktop\Covi Testing Panel\obj\Debug\net5.0\Covi Testing Panel.genruntimeconfig.cache
 C:\Users\Ashok S\Desktop\Covi Testing Panel\obj\Debug\net5.0\Covi Testing Panel.csproj.CopyComplete
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\appsettings.json
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.exe
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.deps.json
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.runtimeconfig.json
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.runtimeconfig.dev.json
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.dll
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\ref\Covi Testing Panel.dll
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.pdb
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.Views.dll
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\bin\Debug\net5.0\Covi Testing Panel.Views.pdb
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.csproj.AssemblyReference.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.AssemblyInfoInputs.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.AssemblyInfo.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.csproj.CoreCompileInputs.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.RazorAssemblyInfo.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.RazorAssemblyInfo.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\staticwebassets\Covi Testing Panel.StaticWebAssets.Manifest.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\staticwebassets\Covi Testing Panel.StaticWebAssets.xml
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\scopedcss\bundle\Covi Testing Panel.styles.css
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.TagHelpers.input.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.TagHelpers.output.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.RazorCoreGenerate.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.RazorTargetAssemblyInfo.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.RazorTargetAssemblyInfo.cs
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.Views.pdb
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.dll
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\ref\Covi Testing Panel.dll
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.pdb
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.genruntimeconfig.cache
+C:\Users\abhiv\Documents\Coding\Asp.net project\Covi_Testing_Panel\obj\Debug\net5.0\Covi Testing Panel.csproj.CopyComplete

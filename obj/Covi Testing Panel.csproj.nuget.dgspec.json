@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashok S\\Desktop\\Covi Testing Panel\\Covi Testing Panel.csproj": {}
+    "C:\\Users\\abhiv\\Documents\\Coding\\Asp.net project\\Covi_Testing_Panel\\Covi Testing Panel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashok S\\Desktop\\Covi Testing Panel\\Covi Testing Panel.csproj": {
+    "C:\\Users\\abhiv\\Documents\\Coding\\Asp.net project\\Covi_Testing_Panel\\Covi Testing Panel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashok S\\Desktop\\Covi Testing Panel\\Covi Testing Panel.csproj",
+        "projectUniqueName": "C:\\Users\\abhiv\\Documents\\Coding\\Asp.net project\\Covi_Testing_Panel\\Covi Testing Panel.csproj",
         "projectName": "Covi Testing Panel",
-        "projectPath": "C:\\Users\\Ashok S\\Desktop\\Covi Testing Panel\\Covi Testing Panel.csproj",
-        "packagesPath": "C:\\Users\\Ashok S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashok S\\Desktop\\Covi Testing Panel\\obj\\",
+        "projectPath": "C:\\Users\\abhiv\\Documents\\Coding\\Asp.net project\\Covi_Testing_Panel\\Covi Testing Panel.csproj",
+        "packagesPath": "C:\\Users\\abhiv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abhiv\\Documents\\Coding\\Asp.net project\\Covi_Testing_Panel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ashok S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abhiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
